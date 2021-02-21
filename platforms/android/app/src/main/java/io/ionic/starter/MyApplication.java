@@ -4,9 +4,9 @@ import android.app.Application;
 import android.util.Log;
 import com.alibaba.ha.adapter.AliHaConfig;
 public class MyApplication extends Application {
-  private final static String mAppKey = "333373704";
-  private final static String mAppSecret = "b924dd06634b4ba39becf54b12254af1";
-  private final static String mHARSAPublicKey = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZMnti5Za7TBsE1dV6MdtHneEzpgOeaPB3hB9rKe/LH8idbuNWNvPcLNYA0j9S16ztvRjdtlRYdCHTI91OtgJmvLrwj+g5Rj08JzJ4VJvYHFPm1jQubjpDASeMpLrWzD8nBZ6SlAiAYPgzbPCTbJa60bZ4761d68C6usTtfCSRVwIDAQAB";
+  private final static String mAppKey = "333379717";
+  private final static String mAppSecret = "1edc1f4e248c4a6bb4490cbea6d64bd4";
+  private final static String mHARSAPublicKey = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCw7n7jb0XQbGPNlLHO62yU/ma6fvEUtZJBWH1Q7rJZI+OtCve6uNM8FJT2tqonV3BHNkt2Lx0wL9Ed6lifWU7bcpTz+Be0a1zp5YL4aZ4Ob0PuRWl1lljqDX8yiw2Z5Co9iMWO+JrhEZ/SIlZQqeDylR3fo9mfDkTMlURFdQyUlQIDAQAB";
 
   @Override
   public void onCreate() {
