@@ -1,0 +1,49 @@
+{
+  "config": {
+	"emas.appKey":"333373704",
+	"emas.appSecret":"b924dd06634b4ba39becf54b12254af1",
+	"emas.packageName":"com.ioincframework.cordova.webview",
+	"hotfix.idSecret":"333373704-1",
+	"hotfix.rsaSecret":"MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrd/KleFpG04TPT6VSe5DfdCkHZ/BnEC/uCHznvYYUXu9oX694OOw1y612nEeb12JmTb/EUw29gRqyhu1ymQgTMevSK8Vea2Z/+/ibMP5ZVkYAVWJ/cvyCFG8PjEojoBxzbqYPbzl4tmYVSgX2Y1JcRZvHApAfunsVtEccRi/LrVrx7w849EOjshQvhoXXTFGHaS5aUdVW8DojlcnLvbwN12/mej3BhegSna2MViYf/Of3HaNiG+0snaEFDdHf5QGE6pIUGYbxjWsesOnVatVRKZUuImwqMhsIlYHVA6JJYglc8XjRg3KoTCejrDkorfGo9O8uoqmzPTwyQcKXAgUFAgMBAAECggEAT934+bYLZr4TOHUCrl675jk2+yogwgC6ModllpOipk5p+RXIp5jr/Uq3q22ztRUn0jsYvZtp5QEDrHBInX5GUpqIG0ckEYy5G5gD/lVdw8L5rCIZVP/8OaLG8FkKF3n2hpXdZ4cJH/7lobju+grdS/loS9QXyY+U0VE9ZiATFy0NCrcuFLv3JelH5w86fBOxzs07D2y0d1pwhJU4OQ9KPuxXvOquh7cucMyRP8O2GJrj5aUlu2y83uidyDTqHKEzgDJxaL3WTLlkczMNA6bKv+77os11OuEkrU1KVnkxaKduJogb4AhNigj5Xxgnd/MpeNlbGMmmmt/T24M16QCzqQKBgQDwiGwHLW3pWdcLFPul1BcgNtJ7JzHKTnl7PJt/A2SHGdM162JNV3RY6DGQJdEwKOO5YAnuPsaURuqxENrxZKtqUOl2VFSxS4PQhmPNIqTsIOkLOLSYW/whCSiMXQ5OE2Zpe4lid1qXEKOSdXCT11ZLd5KBr1bOCfoCsJV8/u16wwKBgQC2fpwiIIpcwU5uudbKpmual5hYSWr74w2qoeTEIUOXwjsEWSrc/QQBdEwP4QSvasVIA00+JgNX9gGYT2tDfmaXJB8EaJMUDf8gwP7mVR3YoLs3m2sK97yUjayY2jME/sb8Q6Q2sETBEnaOGhwgF5sYu5m164pTArC+VY1UzhU0lwKBgQDVv3W4fx+AUezulSv3tl0CrJUpCbCOZmRAJqDMIzivcjymWtGVh1UGOPjqbyDRWlTcBENu62xOkiK3TRIzl9FYfiSpmdFVaJTvtq1zuwiyKaDO7wpVptCMjvXwnjU7HrRQoo546TWgrxGc8i4jwyWVlOGlyyopmOYKg9+kH2rsPwKBgG29CsRWzvzh3PkmVSv9EP2gJSMJ2wRmz4QI4Bi0bAHo8TY3LFhA6VS6izaNOBUH3mPkYGF72EzfiKv/LeAjNSuzs9chzzejBwS6KU12Z4Epfgr9MUwiFss5uk0cAMwDLMLrJecg7ecv5AylVL5Tk5c20EKdxcsO9hsuNNOHLSc3AoGAebZq/+gFllFunQGZAl/QmjBmif5T+WSfn0xkm4HSAk3gcYt3c4+bxzy+oo/8ugQnu3Z+sTdhzfMbOQT4cXbTMRbjhm9x5yijuBkfM82eZ4KqIQpXfaYqXk/ZmPr5w6DvZD1d4YYn4UzkCZ6mMjD9+tmcBha5Q/XclwwVqG3bliI=",
+	"httpdns.accountId":"167706",
+	"httpdns.secretKey":"e00aa323c5469e9042347c0c511c53d6",
+	"appmonitor.tlog.rsaSecret":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZMnti5Za7TBsE1dV6MdtHneEzpgOeaPB3hB9rKe/LH8idbuNWNvPcLNYA0j9S16ztvRjdtlRYdCHTI91OtgJmvLrwj+g5Rj08JzJ4VJvYHFPm1jQubjpDASeMpLrWzD8nBZ6SlAiAYPgzbPCTbJa60bZ4761d68C6usTtfCSRVwIDAQAB",
+	"appmonitor.rsaSecret":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZMnti5Za7TBsE1dV6MdtHneEzpgOeaPB3hB9rKe/LH8idbuNWNvPcLNYA0j9S16ztvRjdtlRYdCHTI91OtgJmvLrwj+g5Rj08JzJ4VJvYHFPm1jQubjpDASeMpLrWzD8nBZ6SlAiAYPgzbPCTbJa60bZ4761d68C6usTtfCSRVwIDAQAB"
+},
+  "services": {
+	"hotfix_service":{
+		"status":1,
+		"version":"3.2.17"
+	},
+	"ha-adapter_service":{
+		"status":1,
+		"version":"1.1.3.8-open"
+	},
+	"feedback_service":{
+		"status":1,
+		"version":"3.3.1"
+	},
+	"tlog_service":{
+		"status":1,
+		"version":"1.1.3.1-open"
+	},
+	"httpdns_service":{
+		"status":1,
+		"version":"2.0.0"
+	},
+	"apm_service":{
+		"status":1,
+		"version":"1.0.8.2-open"
+	},
+	"man_service":{
+		"status":1,
+		"version":"1.2.5"
+	},
+	"cps_service":{
+		"status":1,
+		"version":"3.2.5"
+	}
+},
+  "use_maven":true,
+  "proguard_keeplist":"\n#httpdns\n-keep class com.taobao.** {*;}\n-keep class com.alibaba.** {*;}\n-keep class com.ta.**{*;}\n-keep class com.ut.**{*;}\n-dontwarn com.taobao.**\n-dontwarn com.alibaba.**\n-dontwarn com.ta.**\n-dontwarn com.ut.**\n\n#cps\n-keep class com.taobao.** {*;}\n-keep class com.alibaba.** {*;}\n-keep class com.ta.**{*;}\n-keep class com.ut.**{*;}\n-dontwarn com.taobao.**\n-dontwarn com.alibaba.**\n-dontwarn com.ta.**\n-dontwarn com.ut.**\n-keepclasseswithmembernames class ** {\nnative <methods>;\n}\n-keepattributes Signature\n-keep class sun.misc.Unsafe { *; }\n-keep class com.alipay.** {*;}\n-dontwarn com.alipay.**\n-keep class anet.**{*;}\n-keep class org.android.spdy.**{*;}\n-keep class org.android.agoo.**{*;}\n-dontwarn anet.**\n-dontwarn org.android.spdy.**\n-dontwarn org.android.agoo.**\n\n#hotfix\n#基线包使用，生成mapping.txt\n-printmapping mapping.txt\n#生成的mapping.txt在app/buidl/outputs/mapping/release路径下，移动到/app路径下\n#修复后的项目使用，保证混淆结果一致\n#-applymapping mapping.txt\n#hotfix\n-keep class com.taobao.sophix.**{*;}\n-keep class com.ta.utdid2.device.**{*;}\n#防止inline\n-dontoptimize\n\n#man\n-keep class com.taobao.** {*;}\n-keep class com.alibaba.** {*;}\n-keep class com.ta.**{*;}\n-keep class com.ut.**{*;}\n-dontwarn com.taobao.**\n-dontwarn com.alibaba.**\n-dontwarn com.ta.**\n-dontwarn com.ut.**\n\n#feedback\n-keep class com.taobao.** {*;}\n-keep class com.alibaba.** {*;}\n-keep class com.ta.**{*;}\n-keep class com.ut.**{*;}\n-dontwarn com.taobao.**\n-dontwarn com.alibaba.**\n-dontwarn com.ta.**\n-dontwarn com.ut.**\n"
+}
